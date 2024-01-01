@@ -2,6 +2,13 @@
 
 # Real-time DevOps Automation Project
 
+## Project Overview
+
+This project showcases a complete end-to-end DevOps workflow, focusing on deploying applications using Kubernetes, Jenkins CI/CD pipeline, Docker containerization, Ansible automation, and AWS EC2 for hosting. Key processes include creating Docker images using Dockerfiles, managing these images on Docker Hub, and utilizing Jenkins for automated CI/CD triggered by GitHub commits. Ansible is extensively used for various automation tasks including Docker image management, while SSH is employed for remote server management, crucial for orchestrating operations between Jenkins, Ansible, and Kubernetes servers.
+
+
+# Real-time DevOps Automation Project
+
 ## Key Components
 
 ### Docker Containerization and Image Management
