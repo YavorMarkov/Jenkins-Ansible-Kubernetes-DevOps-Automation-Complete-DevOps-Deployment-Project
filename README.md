@@ -1,6 +1,5 @@
 # Jenkins-Ansible-Kubernetes-DevOps-Automation-Complete-DevOps-Deployment-Project 
 
-# Real-time DevOps Automation Project
 
 ## Project Overview
 
