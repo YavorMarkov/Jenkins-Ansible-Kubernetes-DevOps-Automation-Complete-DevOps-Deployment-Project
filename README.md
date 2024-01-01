@@ -1,4 +1,5 @@
 > :construction: Project Status: Under Construction :construction:
+> > :calendar: Expected Completion Date: January 20, 2024
 # Real-time DevOps Automation Project
 # Jenkins-Ansible-Kubernetes-DevOps-Automation-Complete-DevOps-Deployment-Project 
 
