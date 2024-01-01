@@ -34,3 +34,6 @@ This project showcases a complete end-to-end DevOps workflow, focusing on deploy
 ### SSH and Remote Server Management
 - **Purpose**: Remote command execution and file transfers.
 - **Details**: Orchestrating operations between Jenkins, Ansible, and Kubernetes servers.
+
+
+## Workflow Process
